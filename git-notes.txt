@@ -18,6 +18,8 @@ cat [filename]
 pwd
 	print working directory: displays the current working directory
 
+ctrl-L: to clear the screen
+
 ====== GIT ======
 
 git init
@@ -43,7 +45,13 @@ git log
 git log --oneline
 	shows us all the commits in one line
 
+====== GIT summary =======
 
+Commit:
 
+Basic git workflow:
 
-ctrl-L: to clear the screen
+1. Change
+2. Stage (Add)
+3. Finalist (Commit)
+
