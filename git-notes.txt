@@ -1,3 +1,5 @@
+====== BASIC STUFF ======
+
 mkdir [directory-name]
 	make new folder with name [directory-name]
 
@@ -16,7 +18,7 @@ cat [filename]
 pwd
 	print working directory: displays the current working directory
 
-===
+====== GIT ======
 
 git init
 	initialise a new git repository
@@ -32,7 +34,7 @@ git commit -m "MESSAGE"
 	commit changes to the repository
 	(move stuff from wooden box to metal box)
 
-	
+
 
 
 
