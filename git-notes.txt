@@ -16,6 +16,24 @@ cat [filename]
 pwd
 	print working directory: displays the current working directory
 
+===
+
+git init
+	initialise a new git repository
+
+git status
+	tells us the status of our working directory
+
+git add
+	tells git to start tracking af ile
+	(move stuff to the wooden box)
+
+git commit -m "MESSAGE"
+	commit changes to the repository
+	(move stuff from wooden box to metal box)
+
+	
+
 
 
 
